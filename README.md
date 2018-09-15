@@ -1,1 +1,1 @@
-# DevOpsClassGit
+# DevOps Technologies Class - Git
